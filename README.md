@@ -13,8 +13,11 @@ https://drive.google.com/file/d/1gG-jksZ-yEU1ff98yuYciIkKWUi5HeLX/view?usp=share
 
 ## スケジュール
 2023年5月28日　イベント当日
+
 2023年5月15日　入稿予定日
+
 2023年5月9日　公称最終締め切り
+
 2023年4月30日　公称締切
 
 ## 執筆にあたってのお願い
