@@ -14,6 +14,8 @@ CHAPS:
 
   - chap-title-sponsor.re:
     - chap-sponsor-efc.re
+    - chap-sponsor-seeed.re
+    - chap-sponsor-cybozu.re
 
   - chap-title-staff.re:
     - chap-staff-event.re
