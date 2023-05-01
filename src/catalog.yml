@@ -21,6 +21,7 @@ CHAPS:
     - chap-staff-event.re
     - chap-staff-howtosokubaikai.re
     - chap-staff-printflyer.re
+    - chap-osc-nagoya.re
 
 POSTDEF:
   - chap-contributors.re
