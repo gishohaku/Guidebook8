@@ -22,6 +22,8 @@ CHAPS:
     - chap-staff-howtosokubaikai.re
     - chap-staff-printflyer.re
     - chap-osc-nagoya.re
+    - chap-staff-rhodium.re
+    - chap-staff-logistics.re
 
 POSTDEF:
   - chap-contributors.re
