@@ -6,8 +6,6 @@
 
 \contributor{ariaki}{@ariaki4dev}{images/contributors/ariaki4dev.png}{
 スタートアップの開発責任者を拝命し、刺激的な仕事で毎日楽しく駆けずり回っています。
-
-技書博開催直前にPS5が当選したけど泣く泣くゲーム機を封印して準備を進めているので、技書博おわったら絶対遊び倒す！
 }
 
 \contributor{おやかた（親方Project）}{@oyakata2438}{images/contributors/oyakata2438.png}{
@@ -30,8 +28,9 @@ IT関係の何でも屋。いろいろやりすぎてて、何を担当してい
 元ゲームのプログラマ、現在は製造業の社内SE、プログラミング、ネットワーク、サーバ、設計から配線までとなんでもひととおりやります。メールサーバとIPv6が同人誌を出すぐらい好き。机配置原案とサークル配置担当
 }
 
-\clearpage
-
+\contributor{ロジウム}{@\_rhodium\_}{images/contributors/rhodium.png}{
+計算量爆発と戦う日曜プログラマー(ただし爆発に巻き込まれて死亡する)。機械学習には興味はあるが、何もわからないでいる……。専門は有機化学。有機化学の顔をしていたら、私かも？
+}
 
 
 \contributor{ふーれむ}{@ditflame}{images/contributors/flame.jpg}{
@@ -44,42 +43,8 @@ IT関係の何でも屋。いろいろやりすぎてて、何を担当してい
 
 //embed{
 
-\contributor{よそいち}{@VArghhhhhhhhhhh}{images/contributors/yosoichi.jpg}{
-ガイドブック表紙のデザインを担当しました。普段は書籍DTPをしているプリプレス技能士です。この名義ではデザイン以外にイラストもやっています。
-}
-
-//}
-
-== 当日スタッフ
-
-//embed{
-
-\contributor{KANE}{@higuyume}{images/contributors/higuyume.png}{
-KANE(カネ)です。情報発信をベースに間接的にエンジニアを応援する人！ 人の成長や充実を真剣に考えてます
-}
-
-
-\contributor{なべくら}{@nabe\_\_kurage}{images/contributors/nabekura.jpg}{
-お絵描き好きのフロントエンドエンジニア。
-
-同人誌イベントは久しぶりなので頑張ります。
-}
-
-
-\contributor{kazto}{@kazto\_dev}{images/contributors/kazto.jpg}{
-みんなで盛り上げていきましょう！！
-}
-
-\clearpage
-
-
-
-\contributor{ロジウム}{@\_rhodium\_}{images/contributors/rhodium.png}{
-計算量爆発と戦う日曜プログラマー(ただし爆発に巻き込まれて死亡する)。
-
-機械学習には興味はあるが、何もわからないでいる……。
-
-専門は有機化学。有機化学の顔をしていたら、私かも？
+\contributor{ささくら}{@ssakura\_sn}{images/contributors/sasakura_400px.jpg}{
+エンタメと同人誌即売会が好きなグラフィックデザイナーです。普段はデザイナー向けの同人誌即売会「デザイン読書日和」のコアスタッフ。今回ご縁があって参戦。広がる！同人の輪！！
 }
 
 //}

@@ -19,9 +19,9 @@ CHAPS:
 
   - chap-title-staff.re:
     - chap-staff-kouhou_x_chatgpt.re
-    - chap-osc-nagoya.re
     - chap-staff-rhodium.re
     - chap-staff-logistics.re
-
+    - chap-osc-nagoya.re
+    
 POSTDEF:
   - chap-contributors.re
