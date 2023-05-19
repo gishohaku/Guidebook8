@@ -38,14 +38,3 @@
     \end{center}
 //}
 
-//embed{
-    \begin{center}
-        \includegraphics[width=0.85\linewidth]{images/chap-circle-list/circles-1.png}
-    \end{center}
-//}
-
-//embed{
-    \begin{center}
-        \includegraphics[width=0.85\linewidth]{images/chap-circle-list/circles-2.png}
-    \end{center}
-//}
