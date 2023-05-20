@@ -47,4 +47,14 @@ IT関係の何でも屋。いろいろやりすぎてて、何を担当してい
 エンタメと同人誌即売会が好きなグラフィックデザイナーです。普段はデザイナー向けの同人誌即売会「デザイン読書日和」のコアスタッフ。今回ご縁があって参戦。広がる！同人の輪！！
 }
 
+
+\contributor{のりこ}{@noriko\_ro}{images/contributors/noriko.png}{
+ねこだいすきなんちゃってクラウド系エンジニア。実際はただの雑用係。推し活で忙しい。
+}
+
+
+\contributor{fumiyasac}{@fmiyasac}{images/contributors/funiyasac400.jpg}{
+都内でデザイナーなプログラマをしています。「整理・負担を軽く＆感謝・期待に添えること」をコンセプトに技術を磨く毎日です。たまにiOS/AndroidアプリのUI実装関連の執筆や登壇も。Book: http://just1factory.booth.pm
+}
+
 //}
