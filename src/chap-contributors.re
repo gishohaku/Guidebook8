@@ -33,7 +33,7 @@ IT関係の何でも屋。いろいろやりすぎてて、何を担当してい
 //pagebreak
 
 //embed{
-    
+
 \contributor{ロジウム}{@\_rhodium\_}{images/contributors/rhodium.png}{
 計算量爆発と戦う日曜プログラマー(ただし爆発に巻き込まれて死亡する)。機械学習には興味はあるが、何もわからないでいる……。専門は有機化学。有機化学の顔をしていたら、私かも？
 }
@@ -57,8 +57,10 @@ IT関係の何でも屋。いろいろやりすぎてて、何を担当してい
 }
 
 
-\contributor{fumiyasac}{@fmiyasac}{images/contributors/fumiyasac400.jpg}{
-都内でデザイナーなプログラマをしています。「整理・負担を軽く＆感謝・期待に添えること」をコンセプトに技術を磨く毎日です。たまにiOS/AndroidアプリのUI実装関連の執筆や登壇も。Book: http://just1factory.booth.pm
+\contributor{fumiyasac}{@fumiyasac}{images/contributors/fumiyasac400.jpg}{
+アプリのUI実装が好きな元デザイナーからジョブチェンジをしたエンジニア。
+まだまだ学ぶことは沢山ありますが「整理・負担を軽く」＆「感謝され期待に添えること」の2つをコンセプトに技術を磨く毎日です。平素の業務以外でもQiitaやGithub等でもUI実装に関するサンプルや解説記事を投稿したり主にiOS界隈での勉強会でたまに登壇しています。
+アイデアを練ったり、設計のためのメモや図解を作る時はもっぱら手書きで描くことが多いです。
 }
 
 //}
